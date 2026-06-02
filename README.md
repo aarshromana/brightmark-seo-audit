@@ -1,16 +1,35 @@
 # BrightMark SEO Audit
 
-This repository contains a comprehensive SEO audit for BrightMark.
+A professional SEO audit was conducted for BrightMark to identify technical, on-page, and performance-related SEO issues.
 
-## Contents
+## Project Files
+
 - SEO Audit Report
 - On-Page SEO Report
 - Website Screenshots
 
-## Files
-- SEO_Audit_BrightMark_FINAL_v2.pdf
-- OnPage_SEO_Report_BrightMark.pdf
-- Website screenshots
+## Areas Covered
 
-## Prepared By
-Arshdeep Singh
+- Technical SEO
+- On-Page SEO
+- Website Performance
+- Mobile Optimization
+- Core Web Vitals
+- SEO Recommendations
+
+## Tools Used
+
+- Google Search Console
+- Google PageSpeed Insights
+- Screaming Frog
+- Ahrefs / SEMrush
+- Google Lighthouse
+
+## Objective
+
+The goal of this audit was to identify SEO opportunities and provide actionable recommendations to improve search visibility, website performance, and user experience.
+
+## Author
+
+**Arsh Romana**
+Digital Marketing & CRM Professional
