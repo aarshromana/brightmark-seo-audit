@@ -31,5 +31,5 @@ The goal of this audit was to identify SEO opportunities and provide actionable 
 
 ## Author
 
-**Arsh Romana**
-Digital Marketing & CRM Professional
+**Arshdeep Singh**
+Digital Marketing 
